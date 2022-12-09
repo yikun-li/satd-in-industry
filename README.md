@@ -110,6 +110,24 @@ Text: Use the Python Postinstall implementation by default
 Predicted result: non-SATD
 ```
 
+## Paper
+
+Latest version available on [arXiv](https://arxiv.org/abs/2205.13872)
+
+If you publish a paper where this word helps your research, we encourage you to cite the following paper in your publication:
+
+```
+@article{li2022self,
+    author={Li, Yikun and Soliman, Mohamed and Avgeriou, Paris and Somers, Lou},
+    journal={IEEE Transactions on Software Engineering},
+    title={Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study},
+    year={2022},
+    volume={},
+    number={},
+    pages={1-22},
+    doi={10.1109/TSE.2022.3224378}
+}
+```
 
 ## Contact
 
